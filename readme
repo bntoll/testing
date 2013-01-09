@@ -1,2 +1,6 @@
 This is my first line
+<<<<<<< HEAD
 This is my second line (added via Terminal)
+=======
+This is my second line (added on Github)
+>>>>>>> upstream/master
